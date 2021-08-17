@@ -1,0 +1,15 @@
+{"contenido":[
+    {"tag":"saludo",
+    "patrones":["hola","un saludo!","hello","como estas?","que onda?","hola chatbot"],
+    "respuestas":["Hola que tal!", "Como te va?","Un gusto verte","Que tal tu dia?","Venis por unas clases de Python?","Aca estoy para ayudarte"]
+    },
+    {"tag":"despedida",
+    "patrones":["adios","hasta la proxima","nos vemos","hasta luego","Chau chatbot"],
+    "respuestas":["cuidate","nos vemos pronto","te estare esperando"]
+    },
+    {"tag": "opl",
+        "patrones": ["resolver opl","resolver modelo","resolver modelo optimización","resolver problema de optimización"]
+
+    }
+]
+}
