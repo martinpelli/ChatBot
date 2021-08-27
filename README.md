@@ -1,2 +1,2 @@
 # ChatBot
-A simple chatBot that can resolve opl problems
+A chatBot that can resolve opl problems
